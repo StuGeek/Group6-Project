@@ -1,5 +1,5 @@
-#ifndef _ELEMENTt_H_
-#define _ELEMENTt_H_
+#ifndef _DATA_H_
+#define _DATA_H_
 
 #include <iostream>
 #include <cmath>
