@@ -16,7 +16,7 @@
 
 ## 目录说明
 
-`code`文件夹里放着此次项目代码，其中`MeshApp`文件夹里是本次项目代码的完整版，带有图形界面，运行时要安装Visual Stdio和QT5，才能够顺利运行，具体运行效果见`code`文件夹目录下的`test`视频文件。
+`code`文件夹里放着此次项目代码，其中`MeshApp`文件夹里是本次项目代码的完整版，带有图形界面，运行时要安装Visual Stdio和QT5，才能够顺利运行，具体运行效果和操作可以见`code`文件夹目录下的`test`视频文件。
 
 如果运行环境配置不成功，也可以使用`MeshApp(No GUI)`文件夹目录下的不完整代码验证程序是可以跑通，在Windows命令行输入命令`g++ main.cpp data.cpp -o main -O3 -fopenmp`和`main`，或在Linux终端输入`make run`，都可以跑通程序，看代码效果。
 
